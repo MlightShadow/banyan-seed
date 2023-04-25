@@ -11,7 +11,7 @@
   <artifactId>banyanB</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>banyanB Maven Webapp</name>
+  <name>banyanB</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -21,7 +21,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
+   <build>
     <finalName>banyanB</finalName>
   </build>
 </project>
